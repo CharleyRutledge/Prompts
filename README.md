@@ -1,2 +1,2 @@
 # Prompts
-A collection of prompts that help with ypur vibecoding
+A collection of prompts that help with your vibecoding
